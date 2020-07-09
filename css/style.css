@@ -1,0 +1,39 @@
+p {
+    color:rgba(255, 0, 0, 0.589);
+    font-size: 24px;
+}
+a{
+    text-decoration:none;
+    text-align: center;
+}
+body{
+        background-color:rgba(166, 111, 255, 0.555)
+}
+h1{
+    text-align:center;
+    color:rgb(0, 0, 0)
+}
+hr{
+    border-color: black;
+}
+div{
+    border-style: solid;
+    background-color: none;
+    padding: 10px;
+    border-color: black;
+    margin: 15px;
+    text-align: center;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    font-size: 30px;
+}
+#arizona{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
